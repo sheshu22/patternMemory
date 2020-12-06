@@ -1,12 +1,18 @@
 body {
     text-align: center;
-    background-color: #011F3F;
+    background-color: #1e548d;
+  }
+
+  a{
+      font-size: larger;
+      color: salmon;
+      text-decoration: none;
   }
   
   #level-title {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Marck Script', cursive;
     font-size: 3rem;
-    margin:  5%;
+    margin:  3%;
     color: #FEF2BF;
   }
   
